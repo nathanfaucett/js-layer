@@ -1,6 +1,6 @@
 {
   "name": "@nathanfaucett/layer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A router layer for the browser and node.js",
   "repository": {
     "type": "git",
@@ -27,7 +27,7 @@
     "tape": "^4.2.0"
   },
   "dependencies": {
-    "@nathanfaucett/event_emitter": "^0.0.2",
+    "@nathanfaucett/event_emitter": "^0.0.3",
     "@nathanfaucett/is_string": "^0.0.1",
     "@nathanfaucett/path_to_regexp": "0.0.2",
     "@nathanfaucett/is_null_or_undefined": "0.0.1",
